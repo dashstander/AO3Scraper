@@ -1,2 +1,13 @@
 ---
-  
+  genres:
+    anime_manga: "/media/Anime%20*a*%20Manga/fandoms"
+    books_lit: "/media/Books%20*a*%20Literature/fandoms"
+    cartoons_comics: "/media/Cartoons%20*a*%20Comics%20*a*%20Graphic%20Novels/fandoms"
+    celebrities: "/media/Celebrities%20*a*%20Real%20People/fandoms"
+    movies: "/media/Movies/fandoms"
+    music_bands: "/media/Music%20*a*%20Bands/fandoms"
+    other_media: "/media/Other%20Media/fandoms"
+    theater: "/media/Theater/fandoms"
+    tv: "/media/TV%20Shows/fandoms"
+    video_games: "/media/Video%20Games/fandoms"
+    uncategorized: "/media/Uncategorized%20Fandoms/fandoms"
